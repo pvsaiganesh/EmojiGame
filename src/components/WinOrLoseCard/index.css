@@ -1,0 +1,11 @@
+/* Write your code here. */
+.result {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.res-card {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}

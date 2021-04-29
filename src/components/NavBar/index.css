@@ -1,0 +1,9 @@
+/* Write your code here. */
+.row {
+  text-align: center;
+  font-weight: bold;
+}
+.logo {
+  height: 50px;
+  width: 50px;
+}

@@ -1,0 +1,9 @@
+/* Write your code here. */
+.emoji-card {
+  background-color: #ffffff33;
+  margin: 20px;
+  padding: 20px;
+  border: 2px solid #ffffff30;
+  list-style-type: none;
+  border-radius: 20px;
+}

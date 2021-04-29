@@ -1,0 +1,10 @@
+/* Write your code here. */
+.container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+.bg {
+  background-image: linear-gradient(#9796f0, #fbc7d4, #ffffff33, #ffce27);
+  height: 100vh;
+}
